@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muwahid1
 - 👀 I’m interested in fullstack developer
 - 🌱 I’m currently learning Html, Css, & JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alfarisiwahid@gmail.com
 
 <!---
